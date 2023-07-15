@@ -22,7 +22,3 @@ CounterWidget relies on the following dependencies:
 - androidx.glance:glance-appwidget:1.0.0-alpha05
 
 Make sure these dependencies are added to your app's build.gradle file.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
